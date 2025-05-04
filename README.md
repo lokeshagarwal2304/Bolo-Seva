@@ -77,7 +77,7 @@ It bridges the gap between villagers and local authorities by enabling quick, ac
 ## 🤝 Collaborators
 
 * Lokesh Agarwal – [LinkedIn](https://www.linkedin.com/in/lokeshagarwal2304) | AI & Full-Stack
-* \[Add your team members here with roles and links]
+* Gayatri G – [LinkedIn](https://www.linkedin.com/in/g-gayatri192005) | AI & Presentation and Backbone | Most-Supportive and Consistent
 
 ---
 
@@ -108,6 +108,10 @@ Have suggestions or want to collaborate?
 📧 Email: [lokeshagarwal2304@gmail.com](mailto:lokeshagarwal2304@gmail.com)
 📱 Instagram: [*lokesh.*.agarwal\_](https://instagram.com/_lokesh._.agarwal_)
 🔗 GitHub: [lokeshagarwal2304](https://github.com/lokeshagarwal2304)
+
+📧 Email: [gayatri192005@gmail.com](mailto:gayatri192005@gmail.com)
+🔗 GitHub: [gayatri1920905](https://github.com/gayatri192005)
+📱LinkedIn: [Gayatri G](https://www.linkedin.com/in/g-gayatri192005/)
 
 ---
 
