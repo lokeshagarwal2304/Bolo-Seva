@@ -1,4 +1,5 @@
-![ChatGPT Image May 4, 2025, 09_36_14 PM](https://github.com/user-attachments/assets/4f6865ca-df03-47a8-9b21-3a3576f6f2eb)# 🚀 Bolo Seva – Smart Gaav Complaint & Road Safety AI Portal
+![ChatGPT Image May 4, 2025, 09_36_14 PM](https://github.com/user-attachments/assets/4f6865ca-df03-47a8-9b21-3a3576f6f2eb)
+###🚀 Bolo Seva – Smart Gaav Complaint & Road Safety AI Portal
 
 **Empowering Rural India with Voice & AI for Better Roads and Safer Villages**
 
